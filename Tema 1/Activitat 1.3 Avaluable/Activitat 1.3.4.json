@@ -1,0 +1,13 @@
+{
+    "Tauró blanc":[
+        {    "Tipus": "Peix",
+            "Hàbitat": "Oceànic",
+            "Grandària": "6.4 metres de longitud, 1900 quilgrms de pes",
+            "Estat de conservacó": "En perill",
+            "Característiques":[
+                "Depredador superior",
+                "Temut als oceans per la seva grandària i ferocitat"
+            ]
+        }
+    ]
+}
