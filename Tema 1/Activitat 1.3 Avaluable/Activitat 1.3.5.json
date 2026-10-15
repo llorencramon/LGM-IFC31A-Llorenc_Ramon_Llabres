@@ -1,0 +1,38 @@
+{
+    "enquestes": [
+        {   "id": 1,
+            "titol": "Millor marca de moto",
+            "boolean": true,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "test": "Quina es la miilor marca de moto per tu?",
+                    "tipus": "text_lliure"
+                },
+                {
+                    "ordre": 2,
+                    "test": "Com valoraries aquesta marca?",
+                    "tipus": "opcio_multiple",
+                    "opcions": ["Excel·lent", "Bona", "Regular", "Dolenta"]
+                }
+            ]
+        },
+        {   "id": 2,
+            "titol": "Motos 2t o 4t",
+            "boolean": true,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "test": "Que prefereixes un moto 2t o 4t?",
+                    "tipus": "opcio_multiple",
+                    "opcions": ["2t", "4t"]
+                },
+                {
+                    "ordre": 2,
+                    "test": "Per que?",
+                    "tipus": "text_lliure"
+                }
+            ]
+        }
+    ]
+}
