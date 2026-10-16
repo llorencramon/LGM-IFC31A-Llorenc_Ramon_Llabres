@@ -1,0 +1,63 @@
+{
+    "FACTURAS":[
+        {"núm":"0001",
+            "Tipo de empresa":"Empresa Ficticía",
+            "Calle":"Carrer Desconegut, 1",
+            "Ciudad":"Palma",
+            "Codigo Postal":"07001",
+            "CIF":"Q2826000",
+            "Telefono":"971123456",
+            "Fax":"971987654",
+            "Data":"21-10-2022",
+            "Comanda núm":"1",
+            "Forma de pagament":"EFECTIU",
+            "Dades CLIENT":{
+                "núm.client":"001",
+                "nom":"Carles Canala Gozálvez",
+                "adreça de envio":"Carrer Major, 1. Inca · 07300 (Illes Balears)"
+            },
+            
+            "Dades línia FACTURA": [
+                {
+                    "ref": "MII001F",
+                    "descripcio": "MICRO PENTIUM IV 3000MHZ",
+                    "cant": 1,
+                    "preu": 250,
+                    "iva": 16.0,
+                    "import": 266.80
+                },
+                {
+                    "ref": "MB003",
+                    "descripcio": "PLACA BASE QDI P4",
+                    "cant": 1,
+                    "preu": 180,
+                    "iva": 16.0,
+                    "import": 208.80
+                },
+                {
+                    "ref": "MED876",
+                    "descripcio": "DIMM DDR 512MB 3200",
+                    "cant": 2,
+                    "preu": 40,
+                    "iva": 16.0,
+                    "import": 92.80
+                },
+                {
+                    "ref": "HD250G",
+                    "descripcio": "DISC DUR 250GB S-ATA 7200",
+                    "cant": 4,
+                    "preu": 120,
+                    "iva": 16.0,
+                    "import": 556.80
+                }
+            ],    
+              
+            "Base imposable":"990,00€",
+            "IVA":"16",
+            "Total IVA":"155,20€",
+            "TOTAL FACTURA":"1145,20€"
+
+        }
+        
+    ]
+}
