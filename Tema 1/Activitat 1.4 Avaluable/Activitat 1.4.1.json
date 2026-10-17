@@ -53,7 +53,7 @@
             ],    
               
             "Base imposable":"990,00€",
-            "IVA":"16",
+            "IVA": 16,
             "Total IVA":"155,20€",
             "TOTAL FACTURA":"1145,20€"
 
