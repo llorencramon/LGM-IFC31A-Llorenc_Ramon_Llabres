@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+    <factura num="0001">
+        <empresa>
+            <nombre>Empresa Fictícia</nombre>
+            <calle>Carrer Desconegut, 1</calle>
+            <ciudad>Palma</ciudad>
+            <codigoPostal>07001</codigoPostal>
+            <cif>Q2826000</cif>
+            <telefono>971123456</telefono>
+            <fax>971987654</fax>
+        </empresa>
+        <data>21-10-2022</data>
+        <comanda_Num>1</comanda_Num>
+        <forma_Pagament>EFECTIU</forma_Pagament>
+        <dades_client>
+            <num>001</num>
+            <nom>Carles Canals Gozálvez</nom>
+            <adreca_enviament>Carrer Major, 1. Inca · 07300 (Illes Balears)</adreca_enviament>
+        </dades_client>
+        <dades_factura>
+            <linia>
+                <ref>MII001F</ref>
+                <descripcio>MICRO PENTIUM IV 3000MHZ</descripcio>
+                <cant>1</cant>
+                <preu>250</preu>
+                <iva>16.0</iva>
+                <import>266.80</import>
+            </linia>
+            <linia>
+                <ref>MB003</ref>
+                <descripcio>PLACA BASE QDI P4</descripcio>
+                <cant>1</cant>
+                <preu>180</preu>
+                <iva>16.0</iva>
+                <import>208.80</import>
+            </linia>
+            <linia>
+                <ref>MED876</ref>
+                <descripcio>DIMM DDR 512MB 3200</descripcio>
+                <cant>2</cant>
+                <preu>40</preu>
+                <iva>16.0</iva>
+                <import>92.80</import>
+            </linia>
+            <linia>
+                <ref>HD250G</ref>
+                <descripcio>DISC DUR 250GB S-ATA 7200</descripcio>
+                <cant>4</cant>
+                <preu>120</preu>
+                <iva>16.0</iva>
+                <import>556.80</import>
+            </linia>
+        </dades_factura>
+        <base_Imposable>990.00</base_Imposable>
+        <percentatge_IVA>16.0</percentatge_IVA>
+        <total_IVA>155.20</total_IVA>
+        <total_Factura>1145.20</total_Factura>
+    </factura>
+</facturas>
